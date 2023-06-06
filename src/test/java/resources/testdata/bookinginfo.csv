@@ -1,0 +1,13 @@
+FIRSTNAME,LASTNAME,TOTALPRICE,DEPOSITPAID,CHECKIN,CHECKOUT,ADDITIONALNEEDS
+Jacky,Black,159,true,2018-01-01,2019-01-08,Breakfast
+Brandon,White,654,true,2016-01-01,2016-06-03,Gym
+Michel,Canon,852,true,2016-04-01,2017-03-05,Access to Beach
+Chris,McBeth,987,true,2018-06-01,2019-05-07,Wifi
+Jessy,McGarth,741,true,2018-05-01,2019-06-09,Swimmingpool
+Mahira,Agrawal,5982,true,2018-07-01,2019-07-07,Play Area
+Chitra,Sidhpura,802,true,2018-08-01,2019-07-06,Golf Course
+Veena,Jaiswal,745,false,2018-08-01,2019-07-06,Beach
+Kisan,Mehra,547,false,2018-08-01,2019-07-06,Indoor pool
+Chirah,Sinha,6522,true,2018-08-01,2019-07-06,Golf Course
+Leena,Jain,7450,false,2018-08-01,2019-07-06,Beach
+Krisan,Gupta,8547,false,2018-08-01,2019-07-06,Indoor pool

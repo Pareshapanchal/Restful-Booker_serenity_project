@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create booking data driven test","This test will generate token","SUCCESS","2023-06-06T22:51:04.880+01:00[Europe/London]","0.0","8.05"
+"Create booking data driven test","Get created record by it's booking id ","SUCCESS","2023-06-06T22:51:04.885+01:00[Europe/London]","0.0","6.04"
+"Create booking data driven test","This test will add new booking information to application and verify the booking has been added by bookingid","SUCCESS","2023-06-06T22:51:04.885+01:00[Europe/London]","0.0","5.58"
+"Create booking data driven test","This test will delete booking information in the application","SUCCESS","2023-06-06T22:51:04.885+01:00[Europe/London]","0.0","5.62"
